@@ -4,3 +4,4 @@ Sleep is an essential and vital element of a person’s life and health that hel
 
 ###  Full System Review and Working Process Flowchart
 The system is combined with a few different steps. Every step has a different task to do, and both make it useful for the user.
+<img src = "https://github.com/Shakib-IO/Sleep_Apnea_Monitoring_System/blob/main/figure/7152576.fig.0015.png" width="500" height="600">
