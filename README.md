@@ -13,6 +13,6 @@ This block diagram shows the full system. The system consists of input, output, 
 
 ###  Full System Review and Working Process Flowchart
 The system is combined with a few different steps. Every step has a different task to do, and both make it useful for the user.
-<img src = "https://github.com/Shakib-IO/Sleep_Apnea_Monitoring_System/blob/main/figures/7152576.fig.0015.png" width="500" height="600">
+<img src = "https://github.com/Shakib-IO/Sleep_Apnea_Monitoring_System/blob/main/figures/7152576.fig.0015.png" width="600" height="800">
 
 
