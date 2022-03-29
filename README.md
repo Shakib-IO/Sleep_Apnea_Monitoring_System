@@ -7,6 +7,8 @@ Sleep is an essential and vital element of a person’s life and health that hel
 
 ### Outline of the System
 This block diagram shows the full system. The system consists of input, output, and a microcontroller board Arduino UNO. The Arduino board, which is also connected to the output layer, combined with the serial monitor of the Arduino board, and a Massachusetts Institute of Technology (MIT) App Inventor-based mobile application connected to a Bluetooth module show the converted digital data to the viewer.
+
+
 <img src = "https://github.com/Shakib-IO/Sleep_Apnea_Monitoring_System/blob/main/figures/7152576.fig.001.png" width="100%" height="100%">
 
 ###  Full System Review and Working Process Flowchart
